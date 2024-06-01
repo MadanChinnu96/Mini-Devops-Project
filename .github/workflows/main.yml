@@ -25,5 +25,5 @@ jobs:
 
     - name: Build and push Docker image
       run: |
-        docker build -t your-username/mini-devops-project .
-        docker push your-username/mini-devops-project
+        docker build -t madanchinnu/mini-devops-project .
+        docker push madanchinnu/mini-devops-project
